@@ -1,4 +1,4 @@
-#Code Debugger Chrome Extension
+Code Debugger Chrome Extension
 
 Description
 
