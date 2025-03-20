@@ -1,0 +1,54 @@
+/* Global styles */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f8f9fa;
+    margin: 0;
+    padding: 20px;
+    width: 320px;
+    text-align: center;
+}
+
+/* Container box */
+.container {
+    background: white;
+    padding: 15px;
+    border-radius: 10px;
+    box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+/* Text area */
+#add-input {
+    border: 1px solid #ddd;
+    padding: 12px;
+    background: #5a668b;
+    border-radius: 5px;
+    white-space: pre-wrap;
+    word-wrap: break-word;
+    font-size: 14px;
+    text-align: left;
+}
+
+/* Button styling */
+button {
+    width: 100%;
+    padding: 10px;
+    margin-top: 10px;
+    font-size: 14px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: 0.3s;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+/* Copy button */
+#copyButton {
+    background: #28a745;
+    color: white;
+}
+
+#copyButton:hover {
+    background: #218838;
+}
